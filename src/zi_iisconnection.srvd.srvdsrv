@@ -1,0 +1,4 @@
+@EndUserText.label: 'Flight Service'
+define service ZI_IISCONNECTION {
+  expose ZI_iiCONNECTION;
+}
