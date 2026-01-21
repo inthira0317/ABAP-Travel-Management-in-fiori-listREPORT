@@ -1,6 +1,6 @@
 
 
-##Welcome to the ABAP-Travel-Management-in-fiori-listREPORT wiki!##
+##Welcome to the ABAP-Travel-Management-in-fiori-listREPORT wiki!
 
 This project focuses on building a simple list report using the Restful ABAP Programming (RAP) model within the SAP Business Technology Platform (BTP) trial environment.
 
