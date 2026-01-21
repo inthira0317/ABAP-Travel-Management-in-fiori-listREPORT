@@ -1,0 +1,4 @@
+@EndUserText.label: 'Flight Service 2'
+define service ZFlight_technomaniac23 {
+  expose ZZII_CONNECTION;
+}
